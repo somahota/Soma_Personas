@@ -4,3 +4,7 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
+.grey {
+	color: grey;
+}
