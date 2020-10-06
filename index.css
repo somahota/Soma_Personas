@@ -9,6 +9,16 @@
 	text-align: center-left;
 	color: #484848;
 }
+
+.story {
+	ul{
+  	   list-style: none;
+	}
+
+	ul li:before {
+ 	 content: '✓';
+	}
+}
 .head{
 	ol {
   	 margin:0 0 1.5em;
