@@ -8,6 +8,9 @@
         font-weight:bold;
 	font-size:50px;
 }
+p {
+    font-weight:normal;
+}
 .grey {
 	text-align: center-left;
 	color: #484848;
