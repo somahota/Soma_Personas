@@ -35,4 +35,7 @@
 	 font-size:1000px;
   	 content:counter(item) ".";
 	}
+	
+	 li:before
+	{ content:'\00b7'; font-size:100px; }
 }
